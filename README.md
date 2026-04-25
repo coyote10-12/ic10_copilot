@@ -1,2 +1,2 @@
 # ic10_copilot
-Read the readme.md
+This is an AI for the Ic10-OS program.
